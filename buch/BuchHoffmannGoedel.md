@@ -1,7 +1,8 @@
 ## D. Hoffmann: "Die Gödel'schen Unvollständigkeitssätze" (2013)
 
-<div style="padding: 0 0 20px 20px;float:right">
-![Buchcover](BuchHoffmannGoedel.jpg)</div>
+<div style="padding: 0 0 20px 20px; float:right">
+![Cover des Buches](BuchHoffmannGoedel.jpg)
+</div>
 
 - Vorwort (3)
 - 1 Einleitung (13)
@@ -41,4 +42,11 @@
 
 ## Vorwort
 
->Über Tausende von Jahren war es die unausgesprochene Grundannahme der Mathematik, dass sich jede mathematische Aussage entweder beweisen oder widerlegen lässt. 1931 wurde dieser Traum durch Kurt Gödel zu Grabe getragen. Der junge Mathematiker hatte entdeckt, dass der Begriff der Wahrheit und der Begriff der Beweisbarkeit nicht in Einklang gebracht werden könne [...]
+>Über Tausende von Jahren war es die unausgesprochene Grundannahme der Mathematik, dass sich jede mathematische Aussage entweder beweisen oder widerlegen lässt. 1931 wurde dieser Traum durch Kurt Gödel zu Grabe getragen. Der junge Mathematiker hatte entdeckt, dass der Begriff der Wahrheit und der Begriff der Beweisbarkeit nicht in Einklang gebracht werden können [...]
+
+Arbeiten, die Grenzen definieren, die wir nicht überwinden können:
+
+- Einstein'sche Arbeit zur Begründung der Relativitätstheorie ("Zur Elektrodynamik bewegter Körper", 1905)
+- Heisenberg'sche Arbeit über die Unschärferelation ("Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik", 1927)
+- Gödel'sche Arbeit über Unvollständigkeit ("Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme", 1931)
+ 
